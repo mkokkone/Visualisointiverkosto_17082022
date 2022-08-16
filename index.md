@@ -1,9 +1,9 @@
 # Visualisointiverkosto 17.8.2022
 
-Tälle sivulle on koottu esimerkki miten teemakartan teosta [riistaonnettomuudet-tilaston](https://www.stat.fi/tup/kokeelliset-tilastot/riistaonnettomuudet/index.html) tilastoaineistolla
+Tälle sivulle on koottu esimerkki teemakartan teosta [riistaonnettomuudet-tilaston](https://www.stat.fi/tup/kokeelliset-tilastot/riistaonnettomuudet/index.html) tilastoaineistolla
 
 
-## 2. Teemakartta Qgis-karttaohjelmalla
+## Teemakartta Qgis-karttaohjelmalla
 
 ### Kartan luominen
 Luodaan teemakartta, jossa maakunnittainen riistaonnettomuuksien määrä on suhteutettu liikennemäärään. 
